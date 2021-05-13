@@ -21,5 +21,10 @@
       <option name="name" value="central" />
       <option name="url" value="https://repo1.maven.org/maven2" />
     </remote-repository>
+    <remote-repository>
+      <option name="id" value="oss.sonatype.org" />
+      <option name="name" value="oss.sonatype.org" />
+      <option name="url" value="https://oss.sonatype.org/content/repositories/snapshots/" />
+    </remote-repository>
   </component>
 </project>
